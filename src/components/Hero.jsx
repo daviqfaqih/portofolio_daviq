@@ -67,7 +67,7 @@ const Hero = () => {
 
             {/* INSTAGRAM */}
             <a
-              href="https://instagram.com/daviq faqih"
+              href="https://instagram.com/viq.12_"
               target="_blank"
               rel="noopener noreferrer"
               className="social-icon bg-pink-500"
